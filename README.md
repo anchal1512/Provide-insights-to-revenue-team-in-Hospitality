@@ -1,2 +1,2 @@
 # Provide-insights-to-revenue-team-in-Hospitality
-AtliQ is a company that owns multiple hotel chains across various cities of India The Managing director / CEO of AtliQ wants to incorporate ‘Business and Data Intelligence’ to identify and track the source of revenue for AtliQ hotels  it is decided to develop a KPI Dashboard for AtliQ, 
+AtliQ Grands, a chain of five-star hotels in India, was facing a decline in market share and revenue due to increasing competition and ineffective decision-making. To tackle this, the management decided to leverage business and data intelligence for strategic insights.
